@@ -20,8 +20,7 @@
     "harddisk"
   ],
   "dependencies": {
-    "async": "~0.2.9",
-    "numeral": "~1.4.8"
+    "async": "~0.2.9"
   },
   "os": [
     "darwin",

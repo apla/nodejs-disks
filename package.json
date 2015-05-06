@@ -2,7 +2,7 @@
   "author": "Shaun Hevey",
   "name": "nodejs-disks",
   "description": "Nodejs module to gets current disk information from Server hosting nodejs application tested on OSX and ubuntu adapted from node-diskfree see Readme",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "license": "MIT",
   "main": "./lib/disks",
   "scripts": {
@@ -20,8 +20,7 @@
     "harddisk"
   ],
   "dependencies": {
-    "async": "~0.2.9",
-    "numeral": "~1.4.8"
+    "async": "~0.2.9"
   },
   "os": [
     "darwin",
